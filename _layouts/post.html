@@ -24,13 +24,56 @@ layout: compress
                       {% include read-time.html %}
                     </p><!-- /.entry-reading-time -->
                     {% endif %}
-                    {% if page.project %}
-                    <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/posts/">
-                    {% endif %}
-                        <i class="fa fa-chevron-left"></i>
-                    </a>
+                    
+
+
+
+
+                            {% assign prev = "" %}
+                            {% assign next = "" %}
+                            {% assign stop = false %}
+                            {% for post in site.posts%}
+                            {% if post == page %}
+                            {% assign stop = true %}
+                            {% elsif post.categories == page.categories %}
+                            {% if stop %}
+                            {% assign prev = post.url %}
+                            {% assign pTitle = post.title %}
+                            {% break %}
+                            {% else %}
+                            {% assign next = post.url %}
+                            {% assign nTitle = post.title %}
+                            {% endif %}
+                            {% endif %}
+                            {% endfor%}
+                            {% if prev != "" %}
+                            <a class="btn zoombtn" href="{{ prev }} " title = "{{pTitle}}">
+                                    <i class="fa fa-chevron-left"></i>
+                            </a>
+                            {% else %}
+                            <span class="btnlite" title = "No Older Posts In This Category">
+                                    <i class="fa fa-chevron-left"></i>
+                            </span>
+                            {% endif %}
+                            <a class="btn zoombtn" href="{{site.url}}" title = "Home">
+                                    <i class="fa fa-home"></i>
+                                </a>
+                            {% if next != "" %}
+                            <a class="btn zoombtn" href="{{ next }}" title = "{{pTitle}}">
+                                    <i class="fa fa-chevron-right"></i>
+                            </a>
+
+                            {% else %}
+                            <span class="btnlite" title = "No New Posts In This Category">
+                                    <i class="fa fa-chevron-right"></i>
+                            </span>
+                            {% endif %}
+
+
+
+
+
+
                 </div>
                 {{ content }}
                 <div class="entry-meta">
