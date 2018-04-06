@@ -1,7 +1,7 @@
 # Site
 title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Hi, My Name is Jason'
+description:        "Hi, my name is Jason and am a student at the Technical University of Munich. This is where I link my projects and the resources for my tutor class"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -11,7 +11,7 @@ locale:             en_US
 url:                
 
 # Jekyll
-permalink:          /:title/
+permalink:          /:categories/:title.html
 markdown:           kramdown
 highlighter:        rouge
 kramdown:

@@ -5,6 +5,7 @@ date:   2016-04-21
 excerpt: "Contributions to the Dota2 Config Engine"
 project: true
 categories: project
+series: My Projects
 tag:
 - dota2
 - project
@@ -32,4 +33,5 @@ and more
 
 ## Links
 
-- [Personal Repo](https://github.com/Aevyz/Dota2-Config-Installer)
+- [Personal Repo](https://github.com/Aevyz/Dota2-TheCore-Config-Engine)
+- [Main Branch](https://github.com/lupuleasa-core/Dota2-TheCore-Config-Engine)
