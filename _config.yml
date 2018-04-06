@@ -1,6 +1,6 @@
 # Site
-title:              Moon
-bio:                'Hi, My Name is Jason'
+title:              Aevyz.xyz
+bio:                'Hi, My Name is Jason. Welcome to my site. '
 description:        "Hi, my name is Jason and am a student at the Technical University of Munich. This is where I link my projects and the resources for my tutor class"
 reading_time:       true
 words_per_minute:   200
@@ -42,7 +42,7 @@ disqus_shortname:   taylantatli
 #facebook:           username
 github-url:         aevyz
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          jlochert
 #xing:              username
 instagram:          jay_ce13
 #lastfm:            username
