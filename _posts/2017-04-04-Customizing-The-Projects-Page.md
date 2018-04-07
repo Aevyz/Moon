@@ -11,6 +11,12 @@ series:  A Non-Programmers Guide To GitHub Sites
 
 ---
 
+> ## Post Outdated 
+>Since I updated the website, the features I am writing about are no longer reflected on this site. If you wish to see a live demo, it can be found at [https://t-aevyz.github.io](https://t-aevyz.github.io). There you can find the old version of my site, which includes a working demo of what my site attempted to accomplish. Please note that I will not be answering disqus comments.
+
+---
+
+
 The Projects Page comes by default with some sliding panels, however not all of the features on the page are functional when forked.
 
 ## Non-Working Features

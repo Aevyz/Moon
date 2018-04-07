@@ -6,6 +6,12 @@ categories: adv-jekyll
 series:  Advanced Customization of Jekyll
 
 ---
+
+> ## Post Outdated 
+>Since I updated the website, the features I am writing about are no longer reflected on this site. If you wish to see a live demo, it can be found at [https://t-aevyz.github.io](https://t-aevyz.github.io). There you can find the old version of my site, which includes a working demo of what my site attempted to accomplish. Please note that I will not be answering disqus comments.
+
+---
+
 In this post, I shall describe the Paginator I wrote purely in Liquid. This was my first main feature, thus was a little rough on the edges. It was also the feature that convinced me to ditch purely Liquid based solutions since documentation and debugging of it is atrocious.
 
 ## TL;DR

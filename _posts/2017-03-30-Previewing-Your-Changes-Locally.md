@@ -5,6 +5,12 @@ date: 2017-03-31 08:26
 categories: GitHub_Sites
 series:  A Non-Programmers Guide To GitHub Sites
 ---
+
+> ## Post Outdated 
+>Since I updated the website, the features I am writing about are no longer reflected on this site. If you wish to see a live demo, it can be found at [https://t-aevyz.github.io](https://t-aevyz.github.io). There you can find the old version of my site, which includes a working demo of what my site attempted to accomplish. Please note that I will not be answering disqus comments.
+
+---
+
 It would be ideal to preview your changes before pushing them to the site, to see if the formatting matches your expectations. Especially if you are experimenting with Liquid or Javascript, you may find that sometimes the text does not match what you expected. Obviously uploading tests directly to GitHub is the simplest solution, as it directly builds content for you when you upload your content, but this is not the best idea for a multitude of reasons.
 
 ## Why Not To Test Directly On GitHub?

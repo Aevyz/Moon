@@ -6,6 +6,11 @@ categories: GitHub_Sites
 series:  A Non-Programmers Guide To GitHub Sites
 ---
 
+> ## Post Outdated 
+>Since I updated the website, the features I am writing about are no longer reflected on this site. If you wish to see a live demo, it can be found at [https://t-aevyz.github.io](https://t-aevyz.github.io). There you can find the old version of my site, which includes a working demo of what my site attempted to accomplish. Please note that I will not be answering disqus comments.
+
+---
+
 For this project, I shall be explaining how I used a template and modified this to make this blog. Whilst not all templates are made in the same way, they do bear a lot of similarities and I am fairly confident that one can easily apply the lessons learned here to other projects.
 
 I have chosen the template [Herring Cove](https://github.com/arnp/herring-cove), by [@Arnp](https://github.com/arnp). It is a rather good looking and simple template that is easy to modify.

@@ -6,6 +6,11 @@ categories: GitHub_Sites
 series:  A Non-Programmers Guide To GitHub Sites
 ---
 
+> ## Post Outdated 
+>Since I updated the website, the features I am writing about are no longer reflected on this site. If you wish to see a live demo, it can be found at [https://t-aevyz.github.io](https://t-aevyz.github.io). There you can find the old version of my site, which includes a working demo of what my site attempted to accomplish. Please note that I will not be answering disqus comments.
+
+---
+
 In this series, I hope to make life easier for all people trying to make a GitHub Site, with little to no knowledge of programming. I hope to explain how to use a template and customize it to your advantage, as well as the basics of uploading your content to GitHub. Furthermore I also plan to explain how to take advantage of the Liquid Template Language.  
 
 

@@ -11,6 +11,12 @@ categories: adv-jekyll
 series: Advanced Customization of Jekyll
 
 ---
+
+> ## Post Outdated 
+>Since I updated the website, the features I am writing about are no longer reflected on this site. If you wish to see a live demo, it can be found at [https://t-aevyz.github.io](https://t-aevyz.github.io). There you can find the old version of my site, which includes a working demo of what my site attempted to accomplish. Please note that I will not be answering disqus comments.
+
+---
+
 Whilst WebStorm is a powerful IDE focused on websites with Javascript, it does not directly support Jekyll, however using certain plugins, it is able to perform a lot of functions that make creating Jekyll sites far easier, such as integrated Git to allow for easier uploading to GitHub sites.
 
 Note however that [WebStorm](https://www.jetbrains.com/webstorm/whatsnew/) is not free for the general public, however offers discounts or complimentary licences to certain groups, including university students and open source contributors.

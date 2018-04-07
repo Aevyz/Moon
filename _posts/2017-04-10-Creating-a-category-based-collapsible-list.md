@@ -10,6 +10,12 @@ categories: adv-jekyll
 series: Advanced Customization of Jekyll
 
 ---
+
+> ## Post Outdated 
+>Since I updated the website, the features I am writing about are no longer reflected on this site. If you wish to see a live demo, it can be found at [https://t-aevyz.github.io](https://t-aevyz.github.io). There you can find the old version of my site, which includes a working demo of what my site attempted to accomplish. Please note that I will not be answering disqus comments.
+
+---
+
 The idea behind this project was to have a collapsible list, containing links to specific anchors on the post page. This would make the site a bit easier to use and better show off the post series. Despite this, I still wished to keep functionality for those disabling JavaScript.
 
 >Warning: This feature shall require JavaScript. You could rewrite this in Liquid, however the Collapse feature used requires JavaScript, thus making a fully Liquid solution not possible (and needlessly complicated).

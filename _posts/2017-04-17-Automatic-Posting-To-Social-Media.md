@@ -6,6 +6,11 @@ categories: adv-jekyll
 series:  Advanced Customization of Jekyll
 ---
 
+> ## Post Outdated 
+>Since I updated the website, the features I am writing about are no longer reflected on this site. If you wish to see a live demo, it can be found at [https://t-aevyz.github.io](https://t-aevyz.github.io). There you can find the old version of my site, which includes a working demo of what my site attempted to accomplish. Please note that I will not be answering disqus comments.
+
+---
+
 
 Having a Social Media presence on Websites such as Twitter, Facebook, Pinterest, Reddit, Tumblr, just to name a few, can drive huge amounts of traffic to your posts, as well as offering you the opportunity to interact with your viewers, however posting things to all different Social Media accounts for every post can be a tedious task, and you may even forget to post on a particular site.  
 

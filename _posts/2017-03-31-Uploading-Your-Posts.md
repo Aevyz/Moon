@@ -5,6 +5,12 @@ date: 2017-03-31 18:26
 categories: GitHub_Sites
 series:  A Non-Programmers Guide To GitHub Sites
 ---
+
+> ## Post Outdated 
+>Since I updated the website, the features I am writing about are no longer reflected on this site. If you wish to see a live demo, it can be found at [https://t-aevyz.github.io](https://t-aevyz.github.io). There you can find the old version of my site, which includes a working demo of what my site attempted to accomplish. Please note that I will not be answering disqus comments.
+
+---
+
 Now that you have created content for your website, you want to publish it live on your website. This is done by creating a Commit, that you can Push on to your site.
 
 ## Creating a Commit
