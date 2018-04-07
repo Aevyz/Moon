@@ -8,7 +8,7 @@ logo:               'assets/img/favicon2.png'
 background:         'assets/img/backdrop.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                
+url:                http://aevyz.xyz
 
 # Jekyll
 permalink:          /:categories/:title.html
@@ -63,7 +63,7 @@ instagram:          jay_ce13
 #hackernews:        username
 
 # Gems
-plugins_dir:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
