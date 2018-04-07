@@ -9,7 +9,7 @@ background:         'assets/img/backdrop.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://aevyz.xyz
-
+baseurl:            
 # Jekyll
 permalink:          /:categories/:title.html
 markdown:           kramdown
