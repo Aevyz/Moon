@@ -9,4 +9,4 @@ Tutor positions done at the Technical University of Munich.
 
 Semester | Subject | Link
 ---|---|---
-Winter Semester 2017/2018| Introduction to Informatics and Fundamentals of Programing | [Resources](/tutor/ws1718/)
+Winter Semester 2017/2018| Introduction to Informatics and Fundamentals of Programing | [Resources](/tutor/ws1718)
