@@ -2,7 +2,7 @@
 layout: post
 title:  Autohotkey Umlaut Script
 date:   2017-04-22
-excerpt: "Installer for the Dota2 Config Engine"
+excerpt: "Script that allows Umlauts to be typed on a non-QWERTZ keyboard"
 project: true
 categories: project
 series: My Projects
