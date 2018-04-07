@@ -4,7 +4,7 @@ bio:                'Hi, My Name is Jason. Welcome to my site. '
 description:        "Hi, my name is Jason and am a student at the Technical University of Munich. This is where I link my projects and the resources for my tutor class"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/favicon2.png'
 background:         'assets/img/backdrop.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -67,7 +67,7 @@ plugins_dir:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
-
+  - jekyll-seo-tag
 jekyll-mentions:
     base_url: https://github.com
 

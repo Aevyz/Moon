@@ -126,12 +126,17 @@ img {
     border: 0;
     -ms-interpolation-mode: bicubic;
     image-rendering: optimizeQuality;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
 }
 .img-circle {
 	border-radius: 50%;
 	border: 3px solid $white;
 	height: 150px;
-	width: 150px;
+  width: 150px;
+  padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+  
 }
 .author-photo {
     background-color: $white;
