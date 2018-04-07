@@ -13,11 +13,9 @@ comments: true
 ---
 # Dota2 Config Engine
 
-
 >Status: Defunct, due to changes from Valve
-
+>
 >Language: Dota2's Internal Config Scripting Language
-
 
 ## Goal
 Goal of this project was to extend the functionality of the Dota2 Keybinding system. The idea was to use the existing config file system in order to extend the keymapping system.
