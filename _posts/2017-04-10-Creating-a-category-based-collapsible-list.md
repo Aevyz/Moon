@@ -236,3 +236,31 @@ document.getElementById('mobile_replace').innerHTML = list;
 
 
 
+## Sample
+Here is a demo version of the feature.
+
+<a id="demo_noscript" href="/posts.html" data-toggle="collapse">Click Here</a>
+<script>document.getElementById("demo_noscript").href="#demo_postCategories";</script>
+
+<div id="demo_postCategories" class="collapse" style="indent">
+  <ul id="demo_replace" style="padding-left: 55px">
+
+</ul>
+
+
+<script>
+var catArray = [];
+var list = "";
+{% for pg in site.posts %}
+var found=false;
+for(i = 0; i<catArray.length;i++){
+  if(catArray[i]=="{{pg.categories}}") found=true;
+}
+if(!found){
+  catArray.push("{{pg.categories}}");
+  list='<li style="font-size: 13px; text-indent: 0;line-height: 15px; padding-bottom: 1px; padding-top: 2px;"><a href="{{site.baseurl}}/posts.html#{{pg.categories}}">{{pg.series}}</a></li>'+list;
+}
+
+{% endfor %}
+document.getElementById('demo_replace').innerHTML = list;
+</script>
