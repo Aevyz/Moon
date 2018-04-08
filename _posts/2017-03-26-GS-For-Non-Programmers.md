@@ -3,7 +3,10 @@ layout: post
 title: An Introduction to GitHub Sites
 date: 2017-03-26 00:26
 categories: GitHub_Sites
-series:  A Non-Programmers Guide To GitHub Sites
+series:  A Non-Programmers Guide To GitHub Pages
+tag:
+    - githubpages
+    - jekyll
 ---
 
 > ## Post Outdated 

@@ -4,7 +4,11 @@ title: Creating a Category Based Pagination in Liquid for Jekyll without Gems
 date: 2017-04-02 17:26
 categories: adv-jekyll
 series:  Advanced Customization of Jekyll
-
+tag:
+    - pager
+    - liquid
+    - jekyll
+    - javascript
 ---
 
 > ## Post Outdated 

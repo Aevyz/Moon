@@ -4,6 +4,10 @@ title: Automatically Posting Jekyll Posts to Social Media
 date: 2017-04-17 15:48
 categories: adv-jekyll
 series:  Advanced Customization of Jekyll
+tag:
+    - IFTTT
+    - jekyll
+    - socialmedia
 ---
 
 > ## Post Outdated 

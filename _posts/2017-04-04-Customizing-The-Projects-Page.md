@@ -7,8 +7,10 @@ date: 2017-04-04 22:11
 
 categories: GitHub_Sites
 
-series:  A Non-Programmers Guide To GitHub Sites
-
+series:  A Non-Programmers Guide To GitHub Pages
+tag:
+    - githubpages
+    - jekyll
 ---
 
 > ## Post Outdated 
@@ -145,4 +147,4 @@ Example:
 >Note: You can technically use `name` as opposed to `id`, but it is [technically deprecated with HTML5](https://www.w3schools.com/tags/att_a_name.asp).
 
 ### Working Copy
-To see a working copy of this in action, look at the [custom copy of the site](https://aevyztutorial.github.io/herring-cove-custom/projects.html) ([Source](https://raw.githubusercontent.com/aevyztutorial/herring-cove-custom/master/projects.html)).
+To see a working copy of this in action, look at the [custom copy of the site](https://t-aevyz.github.io/projects.html) 

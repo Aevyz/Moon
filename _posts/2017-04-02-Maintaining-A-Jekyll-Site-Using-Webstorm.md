@@ -10,6 +10,12 @@ categories: adv-jekyll
 
 series: Advanced Customization of Jekyll
 
+tag:
+    - webstorm
+    - jekyll
+    - markdown
+    - template
+
 ---
 
 > ## Post Outdated 

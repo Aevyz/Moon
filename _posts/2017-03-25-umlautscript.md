@@ -2,7 +2,7 @@
 layout: post
 title:  Autohotkey Umlaut Script
 date:   2017-04-22
-excerpt: "Installer for the Dota2 Config Engine"
+excerpt: "An Autohotkey script, that allows users to type Umlauts via a modifier key."
 project: true
 categories: project
 series: My Projects

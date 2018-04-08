@@ -4,6 +4,8 @@ title: An Introduction To Advanced Customization Jekyll
 date: 2017-04-01 00:26
 categories: adv-jekyll
 series:  Advanced Customization of Jekyll
+tag:
+    - jekyll
 ---
 
 > ## Post Outdated 
